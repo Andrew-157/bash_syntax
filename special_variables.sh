@@ -1,4 +1,4 @@
-
+#! bin/bash
 
 # When we run a program on the command line you would be familiar with supplying arguments 
 # after it to control its behaviour. For instance we could run the command 
